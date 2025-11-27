@@ -1,0 +1,190 @@
+.frame {
+  background-color: #010101;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1726.62px;
+  min-height: 900px;
+  position: relative;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  top: 64px;
+  left: 142px;
+  width: 498px;
+  font-family: "Source Serif 4-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle {
+  position: absolute;
+  top: 0;
+  left: -33px;
+  width: 1722px;
+  height: 140px;
+  background-color: #000000;
+  backdrop-filter: blur(2px) brightness(100%);
+  -webkit-backdrop-filter: blur(2px) brightness(100%);
+}
+
+.frame .group {
+  position: absolute;
+  top: 59px;
+  left: 900px;
+  width: 736px;
+  height: 55px;
+  display: flex;
+}
+
+.frame .div {
+  width: 144px;
+  height: 20.83px;
+  font-family: "Source Serif 4-Medium", Helvetica;
+  font-weight: 500;
+  color: #fffefe;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-2 {
+  margin-top: 3px;
+  width: 138px;
+  height: 50px;
+  margin-left: 46px;
+  font-family: "Source Serif 4-Medium", Helvetica;
+  font-weight: 500;
+  color: #fffefe;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-3 {
+  margin-top: 5px;
+  width: 166px;
+  height: 50px;
+  margin-left: 59px;
+  font-family: "Source Serif 4-Medium", Helvetica;
+  font-weight: 500;
+  color: #fffefe;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-4 {
+  margin-top: 3px;
+  width: 116px;
+  height: 36.11px;
+  margin-left: 59px;
+  font-family: "Source Serif 4-Medium", Helvetica;
+  font-weight: 500;
+  color: #fffbfb;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-5 {
+  position: absolute;
+  top: 59px;
+  left: 165px;
+  width: 498px;
+  font-family: "Source Serif 4-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .COLLECTION-VEDETTE {
+  position: absolute;
+  top: 337px;
+  left: 1055px;
+  width: 558px;
+  font-family: "Source Serif 4-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .portrait-of-hermine {
+  position: absolute;
+  top: 189px;
+  left: 129px;
+  width: 320px;
+  height: 260px;
+  aspect-ratio: 1.23;
+  object-fit: cover;
+}
+
+.frame .imgage1 {
+  position: absolute;
+  top: 189px;
+  left: 439px;
+  width: 224px;
+  height: 269px;
+  aspect-ratio: 0.83;
+  object-fit: cover;
+}
+
+.frame .image2 {
+  position: absolute;
+  top: 191px;
+  left: 664px;
+  width: 236px;
+  height: 269px;
+  aspect-ratio: 0.88;
+  object-fit: cover;
+}
+
+.frame .image3 {
+  position: absolute;
+  top: 450px;
+  left: 129px;
+  width: 231px;
+  height: 354px;
+  aspect-ratio: 0.65;
+  object-fit: cover;
+}
+
+.frame .image4 {
+  position: absolute;
+  top: 453px;
+  left: 360px;
+  width: 232px;
+  height: 354px;
+  aspect-ratio: 0.66;
+  object-fit: cover;
+}
+
+.frame .image5 {
+  position: absolute;
+  top: 455px;
+  left: 592px;
+  width: 307px;
+  height: 352px;
+  aspect-ratio: 0.87;
+  object-fit: cover;
+}
+
+.frame .LOGO {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 166px;
+  height: 166px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
